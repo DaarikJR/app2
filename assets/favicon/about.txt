@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Strait
+- Font Author: Copyright 2012 The Strait Project Authors (https://github.com/etunni/strait), with Reserved Font Name 'Strait'
+- Font Source: http://fonts.gstatic.com/s/strait/v17/DtViJxy6WaEr1LZzeDhtkl0U7w.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
