@@ -10,7 +10,7 @@ A brief description of what this project does and who it's for
 
 ## Screenshots
 
-![Screenshot](./assets/github/screenshotappmobilversion.png)
+![Screenshot](./assets/github/screenshotappmobileversion.png)
 ![Screenshot](./assets/github/screenshotdesktopapp.png)
 
 ## Documentation
